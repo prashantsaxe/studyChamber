@@ -151,4 +151,5 @@ We welcome contributions! To contribute:
 
 ## Contact
 For inquiries or collaboration, feel free to reach out!
-
+- **GitHub**:  [Prashant Kumar Saxena](https://github.com/prashantsaxe) || 
+- **LinkedIn**:  [Prashant Kumar Saxena](linkedin.com/in/prashant-saxena-131473193) ||
