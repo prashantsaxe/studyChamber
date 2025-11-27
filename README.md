@@ -6,7 +6,6 @@ PrashantSaxe-StudyChamber is a **Django-based web application** designed to faci
 ## Features
 - **User Authentication** – Secure login and registration system.
 - **Study Rooms** – Users can create and join topic-based discussion rooms.
-- **Real-time Conversations** – Engage in discussions with other users.
 - **Topic Categorization** – Rooms are organized based on study topics.
 - **Responsive UI** – Built using Django templates for seamless user experience.
 
@@ -153,3 +152,4 @@ We welcome contributions! To contribute:
 For inquiries or collaboration, feel free to reach out!
 - **GitHub**:  [Prashant Kumar Saxena](https://github.com/prashantsaxe) || 
 - **LinkedIn**:  [Prashant Kumar Saxena](linkedin.com/in/prashant-saxena-131473193) ||
+
